@@ -1,2 +1,11 @@
 node_modules/
-built/
+.env
+.env.local
+.DS_Store
+dist/
+build/
+.idea/
+.vscode/
+*.log
+npm-debug.log*
+.cache/
